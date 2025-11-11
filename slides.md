@@ -1,5 +1,5 @@
 ---
-theme: ../slidev-theme-nfdi4plants
+theme: ./themes/slidev-theme-nfdi4plants
 transition: fade
 background: https://cover.sli.dev
 addons:
