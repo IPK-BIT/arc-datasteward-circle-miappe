@@ -229,7 +229,7 @@ layout: two-cols
 ::right::
 
 <PlotlyFigure
-  src="./snippets/plotly-figures/awn-length.json"
+  src="https://raw.githubusercontent.com/IPK-BIT/arc-datasteward-circle-miappe/refs/heads/main/snippets/plotly-figures/awn-length.json"
   width="300px"
   height="500px"
   :fontSize="10"
@@ -260,7 +260,7 @@ layout: two-cols
 ::right::
 
 <PlotlyFigure
-  src="./snippets/plotly-figures/rachilla-hairs.json"
+  src="https://raw.githubusercontent.com/IPK-BIT/arc-datasteward-circle-miappe/refs/heads/main/snippets/plotly-figures/rachilla-hairs.json"
   width="300px"
   height="500px"
   :fontSize="10"
