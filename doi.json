@@ -1,0 +1,915 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                9
+            ]
+        ],
+        "date-time": "2025-09-09T20:44:43Z",
+        "timestamp": 1757450683010,
+        "version": "3.41.2"
+    },
+    "reference-count": 71,
+    "publisher": "Frontiers Media SA",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        11
+                    ]
+                ],
+                "date-time": "2020-06-11T00:00:00Z",
+                "timestamp": 1591833600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100002347",
+            "name": "Bundesministerium für Bildung und Forschung",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100002347",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/501100002347",
+            "name": "Bundesministerium für Bildung und Forschung",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100002347",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/501100001664",
+            "name": "Leibniz-Gemeinschaft",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100001664",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "frontiersin.org"
+        ],
+        "crossmark-restriction": true
+    },
+    "DOI": "10.3389/fpls.2020.00701",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                6,
+                11
+            ]
+        ],
+        "date-time": "2020-06-11T04:54:06Z",
+        "timestamp": 1591851246000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 39,
+    "title": "BRIDGE – A Visual Analytics Web Tool for Barley Genebank Genomics",
+    "prefix": "10.3389",
+    "volume": "11",
+    "author": [
+        {
+            "given": "Patrick",
+            "family": "König",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Sebastian",
+            "family": "Beier",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Martin",
+            "family": "Basterrechea",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Danuta",
+            "family": "Schüler",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Daniel",
+            "family": "Arend",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Martin",
+            "family": "Mascher",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Nils",
+            "family": "Stein",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Uwe",
+            "family": "Scholz",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Matthias",
+            "family": "Lange",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "1965",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                6,
+                11
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "journal-title": "FAO/Bioversity Multi-Crop Passport Descriptors V.2.1 [MCPD V.2.1].",
+            "year": "2015",
+            "author": "Alercia",
+            "key": "B1"
+        },
+        {
+            "journal-title": "Instant Introjs Learn How To Work With The Introjs Library To Create Useful, Step-By-Step Help And Introductions For Websites And Applications.",
+            "year": "2013",
+            "author": "Arasteh",
+            "key": "B2"
+        },
+        {
+            "journal-title": "Web",
+            "year": "2017",
+            "author": "Basterrechea",
+            "key": "B3"
+        },
+        {
+            "key": "B4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3835/plantgenome2012.03.0002",
+            "article-title": "The hordeum toolbox: the barley coordinated agricultural project genotype and phenotype resource.",
+            "volume": "5",
+            "author": "Blake",
+            "year": "2012",
+            "journal-title": "Plant Genome J."
+        },
+        {
+            "key": "B5",
+            "doi-asserted-by": "publisher",
+            "first-page": "182",
+            "DOI": "10.1111/tpj.14179",
+            "article-title": "Computational aspects underlying genome to phenome analysis in plants.",
+            "volume": "97",
+            "author": "Bolger",
+            "year": "2019",
+            "journal-title": "Plant J."
+        },
+        {
+            "key": "B6",
+            "doi-asserted-by": "publisher",
+            "first-page": "D48",
+            "DOI": "10.1093/nar/gkv1323",
+            "article-title": "The international nucleotide sequence database collaboration.",
+            "volume": "44",
+            "author": "Cochrane",
+            "year": "2016",
+            "journal-title": "Nucleic Acids Res."
+        },
+        {
+            "key": "B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "58",
+            "DOI": "10.1016/j.coisb.2017.07.002",
+            "article-title": "Unlocking the potential of plant phenotyping data through integration and data-driven approaches.",
+            "volume": "4",
+            "author": "Coppens",
+            "year": "2017",
+            "journal-title": "Curr. Opin. Syst. Biol."
+        },
+        {
+            "key": "B8",
+            "doi-asserted-by": "publisher",
+            "first-page": "961",
+            "DOI": "10.1016/j.tplants.2017.08.011",
+            "article-title": "Genomic selection in plant breeding: methods, models, and perspectives.",
+            "volume": "22",
+            "author": "Crossa",
+            "year": "2017",
+            "journal-title": "Trends Plant Sci."
+        },
+        {
+            "key": "B9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s13007-016-0144-4",
+            "article-title": "Measures for interoperability of phenotypic data: minimum information requirements and formatting.",
+            "volume": "12",
+            "author": "Ćwiek-Kupczyńska",
+            "year": "2016",
+            "journal-title": "Plant Methods"
+        },
+        {
+            "key": "B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "2156",
+            "DOI": "10.1093/bioinformatics/btr330",
+            "article-title": "The variant call format and VCFtools.",
+            "volume": "27",
+            "author": "Danecek",
+            "year": "2011",
+            "journal-title": "Bioinformatics"
+        },
+        {
+            "key": "B11",
+            "doi-asserted-by": "publisher",
+            "first-page": "366",
+            "DOI": "10.1080/08982110903188276",
+            "article-title": "Principles of exploratory data analysis in problem solving: What can we learn from a well-known case?",
+            "volume": "21",
+            "author": "de Mast",
+            "year": "2009",
+            "journal-title": "Qual. Eng."
+        },
+        {
+            "journal-title": "JQuery: A Generic Code Browser With A Declarative Configuration Language.",
+            "year": "2006",
+            "author": "De Volder",
+            "key": "B12"
+        },
+        {
+            "key": "B13",
+            "doi-asserted-by": "publisher",
+            "first-page": "837",
+            "DOI": "10.1111/j.1467-7652.2009.00450.x",
+            "article-title": "Reverse breeding: a novel breeding approach based on engineered meiosis.",
+            "volume": "7",
+            "author": "Dirks",
+            "year": "2009",
+            "journal-title": "Plant Biotechnol. J."
+        },
+        {
+            "key": "B14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1371/journal.pone.0019379",
+            "article-title": "A robust, simple genotyping-by-sequencing (GBS) approach for high diversity species.",
+            "volume": "6",
+            "author": "Elshire",
+            "year": "2011",
+            "journal-title": "PLoS One"
+        },
+        {
+            "journal-title": "Building Climate Resilience For Food Security And Nutrition.",
+            "year": "2018",
+            "key": "B15"
+        },
+        {
+            "journal-title": "Learning Vue. js 2.",
+            "year": "2016",
+            "author": "Filipova",
+            "key": "B16"
+        },
+        {
+            "key": "B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "267",
+            "DOI": "10.1146/annurev-arplant-050312-120137",
+            "article-title": "Future scenarios for plant phenotyping.",
+            "volume": "64",
+            "author": "Fiorani",
+            "year": "2013",
+            "journal-title": "Annu. Rev. Plant Biol."
+        },
+        {
+            "key": "B18",
+            "doi-asserted-by": "publisher",
+            "first-page": "2009",
+            "DOI": "10.1007/s00122-018-3129-z",
+            "article-title": "Unlocking historical phenotypic data from an ex situ collection to enhance the informed utilization of genetic resources of barley (Hordeum sp.).",
+            "volume": "131",
+            "author": "González",
+            "year": "2018",
+            "journal-title": "Theor. Appl. Genet."
+        },
+        {
+            "key": "B19",
+            "doi-asserted-by": "publisher",
+            "first-page": "147",
+            "DOI": "10.1002/j.1538-7305.1950.tb00463.x",
+            "article-title": "Error detecting and error correcting codes.",
+            "volume": "29",
+            "author": "Hamming",
+            "year": "1950",
+            "journal-title": "Bell Syst. Tech. J."
+        },
+        {
+            "journal-title": "Openlayers 2.10 Beginner’s Guide.",
+            "year": "2011",
+            "author": "Hazzard",
+            "key": "B20"
+        },
+        {
+            "key": "B21",
+            "doi-asserted-by": "publisher",
+            "first-page": "121",
+            "DOI": "10.1105/tpc.113.119982",
+            "article-title": "Insights into the maize pan-genome and pan-transcriptome.",
+            "volume": "26",
+            "author": "Hirsch",
+            "year": "2014",
+            "journal-title": "Plant Cell"
+        },
+        {
+            "key": "B22",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1038/nrg2897",
+            "article-title": "Phenomics: the next challenge.",
+            "volume": "11",
+            "author": "Houle",
+            "year": "2010",
+            "journal-title": "Nat. Rev. Genet."
+        },
+        {
+            "key": "B23",
+            "doi-asserted-by": "publisher",
+            "first-page": "16666",
+            "DOI": "10.1073/pnas.0604379103",
+            "article-title": "Impacts of genetic bottlenecks on soybean genome diversity.",
+            "volume": "103",
+            "author": "Hyten",
+            "year": "2006",
+            "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+        },
+        {
+            "journal-title": "Functional Information Of High Confidence Genes Of Barley cv. Morex. 5.1 MB.",
+            "year": "",
+            "key": "B24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.5447/IPK/2016/45"
+        },
+        {
+            "journal-title": "Structural Information Of Low-Confidence Genes Of Barley cv. Morex. 114.9 MB.",
+            "year": "",
+            "key": "B25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.5447/IPK/2016/46"
+        },
+        {
+            "key": "B26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1471-2164-15-740",
+            "article-title": "Genotyping by sequencing for genomic prediction in a soybean breeding population.",
+            "volume": "15",
+            "author": "Jarquín",
+            "year": "2014",
+            "journal-title": "BMC Genomics"
+        },
+        {
+            "key": "B27",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1109/2945.981847",
+            "article-title": "Information visualization and visual data mining.",
+            "volume": "8",
+            "author": "Keim",
+            "year": "2002",
+            "journal-title": "IEEE Trans. Vis. Comput. Graph."
+        },
+        {
+            "key": "B28",
+            "doi-asserted-by": "publisher",
+            "first-page": "230",
+            "DOI": "10.1007/s00438-006-0136-6",
+            "article-title": "Haplotype structure at seven barley genes: relevance to gene pool bottlenecks, phylogeny of ear type and site of barley domestication.",
+            "volume": "276",
+            "author": "Kilian",
+            "year": "2006",
+            "journal-title": "Mol. Genet. Genomics"
+        },
+        {
+            "key": "B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "379",
+            "DOI": "10.1109/ICITST.2015.7412126",
+            "article-title": "The role of HTML5 IndexedDB, the past, present and future",
+            "author": "Kimak",
+            "year": "2015",
+            "journal-title": "Proceedings of the 2015 10th International Conference for Internet Technology and Secured Transactions (ICITST)"
+        },
+        {
+            "key": "B30",
+            "doi-asserted-by": "publisher",
+            "first-page": "5417",
+            "DOI": "10.1093/jxb/ery006",
+            "article-title": "Towards recommendations for metadata and data handling in plant phenotyping.",
+            "volume": "66",
+            "author": "Krajewski",
+            "year": "2015",
+            "journal-title": "J. Exp. Bot."
+        },
+        {
+            "key": "B31",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1109/EDOC.2001.950428",
+            "article-title": "Web-application development using the Model/View/controller design pattern",
+            "author": "Leff",
+            "year": "2001",
+            "journal-title": "Proceedings Fifth IEEE International Enterprise Distributed Object Computing Conference"
+        },
+        {
+            "key": "B32",
+            "first-page": "2579",
+            "article-title": "Visualizing data using t-SNE.",
+            "volume": "9",
+            "author": "Maaten",
+            "year": "2008",
+            "journal-title": "J. Mach. Learn. Res."
+        },
+        {
+            "key": "B33",
+            "doi-asserted-by": "publisher",
+            "first-page": "427",
+            "DOI": "10.1038/nature22043",
+            "article-title": "A chromosome conformation capture ordered sequence of the barley genome.",
+            "volume": "544",
+            "author": "Mascher",
+            "year": "2017",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "B34",
+            "doi-asserted-by": "publisher",
+            "first-page": "494",
+            "DOI": "10.1111/tpj.12294",
+            "article-title": "Barley whole exome capture: a tool for genomic research in the genus Hordeum and beyond.",
+            "volume": "76",
+            "author": "Mascher",
+            "year": "2013",
+            "journal-title": "Plant J."
+        },
+        {
+            "key": "B35",
+            "doi-asserted-by": "publisher",
+            "first-page": "1076",
+            "DOI": "10.1038/s41588-019-0443-6",
+            "article-title": "Genebank genomics bridges the gap between the conservation of crop diversity and plant breeding.",
+            "volume": "51",
+            "author": "Mascher",
+            "year": "2019",
+            "journal-title": "Nat. Genet."
+        },
+        {
+            "journal-title": "Cggh/Scikit-Allel: v1.2.0.",
+            "year": "2019",
+            "author": "Miles",
+            "key": "B36"
+        },
+        {
+            "key": "B37",
+            "doi-asserted-by": "publisher",
+            "first-page": "3133",
+            "DOI": "10.1093/bioinformatics/btq580",
+            "article-title": "Flapjack–graphical genotype visualization.",
+            "volume": "26",
+            "author": "Milne",
+            "year": "2010",
+            "journal-title": "Bioinformatics"
+        },
+        {
+            "key": "B38",
+            "doi-asserted-by": "publisher",
+            "first-page": "319",
+            "DOI": "10.1038/s41588-018-0266-x",
+            "article-title": "Genebank genomics highlights the diversity of a global barley collection.",
+            "volume": "51",
+            "author": "Milner",
+            "year": "2019",
+            "journal-title": "Nat. Genet."
+        },
+        {
+            "key": "B39",
+            "doi-asserted-by": "publisher",
+            "first-page": "785",
+            "DOI": "10.1007/s00122-018-3234-z",
+            "article-title": "Prospects of pan-genomics in barley.",
+            "volume": "132",
+            "author": "Monat",
+            "year": "2019",
+            "journal-title": "Theor. Appl. Genet."
+        },
+        {
+            "key": "B40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s13059-016-0961-9",
+            "article-title": "The real cost of sequencing: scaling computation to keep pace with data generation.",
+            "volume": "17",
+            "author": "Muir",
+            "year": "2016",
+            "journal-title": "Genome Biol."
+        },
+        {
+            "key": "B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1007/s10681-009-9975-7",
+            "article-title": "Seed conservation in ex situ genebanks—genetic studies on longevity in barley.",
+            "volume": "170",
+            "author": "Nagel",
+            "year": "2009",
+            "journal-title": "Euphytica"
+        },
+        {
+            "key": "B42",
+            "doi-asserted-by": "publisher",
+            "first-page": "D12",
+            "DOI": "10.1093/nar/gkw1071",
+            "article-title": "Database resources of the national center for biotechnology information.",
+            "volume": "45",
+            "year": "2017",
+            "journal-title": "Nucleic Acids Res."
+        },
+        {
+            "key": "B43",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/database/bav021",
+            "article-title": "GBIS: the information system of the German Genebank.",
+            "volume": "2015",
+            "author": "Oppermann",
+            "year": "2015",
+            "journal-title": "Database"
+        },
+        {
+            "key": "B44",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.59327/IPCC/AR5-9789291691432",
+            "author": "Pachauri",
+            "year": "2015",
+            "journal-title": "IPCC: Climate Change 2014: Synthesis Report."
+        },
+        {
+            "key": "B45",
+            "doi-asserted-by": "publisher",
+            "first-page": "16544",
+            "DOI": "10.1111/nph.16544",
+            "article-title": "Enabling reusability of plant phenomic datasets with MIAPPE 1.1.",
+            "author": "Papoutsoglou",
+            "year": "2020",
+            "journal-title": "New Phytol."
+        },
+        {
+            "key": "B46",
+            "first-page": "2825",
+            "article-title": "Scikit-learn: machine learning in python.",
+            "volume": "12",
+            "author": "Pedregosa",
+            "year": "2011",
+            "journal-title": "J. Mach. Learn. Res."
+        },
+        {
+            "key": "B47",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.34133/2019/7507131",
+            "article-title": "Plant phenotyping: past, present, and future.",
+            "volume": "2019",
+            "author": "Pieruschka",
+            "year": "2019",
+            "journal-title": "Plant Phenom."
+        },
+        {
+            "key": "B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "92",
+            "DOI": "10.3835/plantgenome2012.05.0005",
+            "article-title": "Genotyping-by-sequencing for plant breeding and genetics.",
+            "volume": "5",
+            "author": "Poland",
+            "year": "2012",
+            "journal-title": "Plant Genome"
+        },
+        {
+            "key": "B49",
+            "doi-asserted-by": "publisher",
+            "first-page": "2354",
+            "DOI": "10.1093/bioinformatics/btq415",
+            "article-title": "ISA software suite: supporting standards-compliant experimental annotation and enabling curation at the community level.",
+            "volume": "26",
+            "author": "Rocca-Serra",
+            "year": "2010",
+            "journal-title": "Bioinformatics"
+        },
+        {
+            "key": "B50",
+            "doi-asserted-by": "publisher",
+            "first-page": "1260",
+            "DOI": "10.1126/science.291.5507.1260",
+            "article-title": "Bioinformatics–trying to swim in a sea of data.",
+            "volume": "291",
+            "author": "Roos",
+            "year": "2001",
+            "journal-title": "Science"
+        },
+        {
+            "key": "B51",
+            "doi-asserted-by": "publisher",
+            "first-page": "121",
+            "DOI": "10.1038/ng.1054",
+            "article-title": "Toward interoperable bioscience data.",
+            "volume": "44",
+            "author": "Sansone",
+            "year": "2012",
+            "journal-title": "Nat. Genet."
+        },
+        {
+            "key": "B52",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2135/cropsci2016.09.0814",
+            "article-title": "Germinate 3: development of a common platform to support the distribution of experimental data on crop wild relatives.",
+            "volume": "57",
+            "author": "Shaw",
+            "year": "2017",
+            "journal-title": "Crop Sci."
+        },
+        {
+            "key": "B53",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41586-019-1120-8",
+            "article-title": "DNA sequencing at 40: past, present and future.",
+            "volume": "550",
+            "author": "Shendure",
+            "year": "2017",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "B54",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1038/nbt1486",
+            "article-title": "Next-generation DNA sequencing.",
+            "volume": "26",
+            "author": "Shendure",
+            "year": "2008",
+            "journal-title": "Nat. Biotechnol."
+        },
+        {
+            "journal-title": "Plotly: Create Interactive Web Graphics Via ‘Plotly. js.’. R Package Version 4.",
+            "year": "2017",
+            "author": "Sievert",
+            "key": "B55"
+        },
+        {
+            "key": "B56",
+            "doi-asserted-by": "publisher",
+            "first-page": "D36",
+            "DOI": "10.1093/nar/gkx1125",
+            "article-title": "The european nucleotide archive in 2017.",
+            "volume": "46",
+            "author": "Silvester",
+            "year": "2018",
+            "journal-title": "Nucleic Acids Res."
+        },
+        {
+            "journal-title": "Grails in Action.",
+            "year": "2009",
+            "author": "Smith",
+            "key": "B57"
+        },
+        {
+            "key": "B58",
+            "doi-asserted-by": "publisher",
+            "first-page": "1063",
+            "DOI": "10.1126/science.277.5329.1063",
+            "article-title": "Seed banks and molecular maps: unlocking genetic potential from the wild.",
+            "volume": "277",
+            "author": "Tanksley",
+            "year": "1997",
+            "journal-title": "Science"
+        },
+        {
+            "key": "B59",
+            "doi-asserted-by": "publisher",
+            "first-page": "27",
+            "DOI": "10.1093/nar/30.1.27",
+            "article-title": "DNA data bank of japan (DDBJ) for genome scale research in life science.",
+            "volume": "30",
+            "author": "Tateno",
+            "year": "2002",
+            "journal-title": "Nucleic Acids Res."
+        },
+        {
+            "key": "B60",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/2047-217X-3-7",
+            "article-title": "The 3,000 rice genomes project.",
+            "volume": "3",
+            "year": "2014",
+            "journal-title": "GigaScience"
+        },
+        {
+            "key": "B61",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1002/9780470958636",
+            "author": "Ullrich",
+            "year": "2010",
+            "journal-title": "Barley: Production, Improvement, And Uses."
+        },
+        {
+            "key": "B62",
+            "doi-asserted-by": "publisher",
+            "first-page": "22",
+            "DOI": "10.1109/MCSE.2011.37",
+            "article-title": "The NumPy array: a structure for efficient numerical computation.",
+            "volume": "13",
+            "author": "van der Walt",
+            "year": "2011",
+            "journal-title": "Comput. Sci. Eng."
+        },
+        {
+            "key": "B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "621",
+            "DOI": "10.1016/j.tplants.2005.10.004",
+            "article-title": "Genomics-assisted breeding for crop improvement.",
+            "volume": "10",
+            "author": "Varshney",
+            "year": "2005",
+            "journal-title": "Trends Plant Sci."
+        },
+        {
+            "key": "B64",
+            "doi-asserted-by": "publisher",
+            "first-page": "522",
+            "DOI": "10.1016/j.tibtech.2009.05.006",
+            "article-title": "Next-generation sequencing technologies and their implications for crop genetics and breeding.",
+            "volume": "27",
+            "author": "Varshney",
+            "year": "2009",
+            "journal-title": "Trends Biotechnol."
+        },
+        {
+            "key": "B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "148",
+            "DOI": "10.1016/j.mib.2014.11.016",
+            "article-title": "Ten years of pan-genome analyses.",
+            "volume": "23",
+            "author": "Vernikos",
+            "year": "2015",
+            "journal-title": "Curr. Opin. Microbiol."
+        },
+        {
+            "key": "B66",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1371/journal.pbio.1001877",
+            "article-title": "Precision genome engineering and agriculture: opportunities and regulatory challenges.",
+            "volume": "12",
+            "author": "Voytas",
+            "year": "2014",
+            "journal-title": "PLoS Biol."
+        },
+        {
+            "key": "B67",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/gb-2009-10-5-107",
+            "article-title": "The 1001 genomes project for Arabidopsis thaliana.",
+            "volume": "10",
+            "author": "Weigel",
+            "year": "2009",
+            "journal-title": "Genome Biol."
+        },
+        {
+            "key": "B68",
+            "doi-asserted-by": "publisher",
+            "first-page": "D1003",
+            "DOI": "10.1093/nar/gkw755",
+            "article-title": "EURISCO: the european search catalogue for plant genetic resources.",
+            "volume": "45",
+            "author": "Weise",
+            "year": "2017",
+            "journal-title": "Nucleic Acids Res."
+        },
+        {
+            "key": "B69",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/sdata.2016.18",
+            "article-title": "The FAIR guiding principles for scientific data management and stewardship.",
+            "volume": "3",
+            "author": "Wilkinson",
+            "year": "2016",
+            "journal-title": "Sci. Data"
+        },
+        {
+            "key": "B70",
+            "doi-asserted-by": "publisher",
+            "first-page": "735",
+            "DOI": "10.1136/jmedgenet-2018-105272",
+            "article-title": "Whole-genome sequencing analysis of CNV using low-coverage and paired-end strategies is efficient and outperforms array-based CNV analysis.",
+            "volume": "55",
+            "author": "Zhou",
+            "year": "2018",
+            "journal-title": "J. Med. Genet."
+        },
+        {
+            "key": "B71",
+            "doi-asserted-by": "publisher",
+            "first-page": "875",
+            "DOI": "10.1093/molbev/msm005",
+            "article-title": "Multilocus analysis of nucleotide variation of oryza sativa and its wild relatives: severe bottleneck during domestication of rice.",
+            "volume": "24",
+            "author": "Zhu",
+            "year": "2007",
+            "journal-title": "Mol. Biol. Evol."
+        }
+    ],
+    "container-title": "Frontiers in Plant Science",
+    "original-title": [],
+    "link": [
+        {
+            "URL": "https://www.frontiersin.org/article/10.3389/fpls.2020.00701/full",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                10,
+                2
+            ]
+        ],
+        "date-time": "2023-10-02T07:18:58Z",
+        "timestamp": 1696231138000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.frontiersin.org/article/10.3389/fpls.2020.00701/full"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                6,
+                11
+            ]
+        ]
+    },
+    "references-count": 71,
+    "alternative-id": [
+        "10.3389/fpls.2020.00701"
+    ],
+    "URL": "http://dx.doi.org/10.3389/fpls.2020.00701",
+    "relation": {},
+    "ISSN": [
+        "1664-462X"
+    ],
+    "subject": [],
+    "container-title-short": "Front. Plant Sci.",
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                6,
+                11
+            ]
+        ]
+    },
+    "article-number": "701"
+}

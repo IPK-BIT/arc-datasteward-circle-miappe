@@ -1,0 +1,18 @@
+{
+  "name": "25-10-15-datasteward-circle-miappe",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.2.4",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-addon-fancy-arrow": "^0.13.11",
+    "slidev-addon-stem": "^0.1.3",
+    "vue": "^3.5.21"
+  }
+}
